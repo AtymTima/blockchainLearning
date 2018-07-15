@@ -1,0 +1,11 @@
+prefix=/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/build/exonum_libsodium-sys-05a298b3508594e0/out/installed
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libsodium
+Version: 1.0.16
+Description: A modern and easy-to-use crypto library
+
+Libs: -L${libdir} -lsodium
+Cflags: -I${includedir}

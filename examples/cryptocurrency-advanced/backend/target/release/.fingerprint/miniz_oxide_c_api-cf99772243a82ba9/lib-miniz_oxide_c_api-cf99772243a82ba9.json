@@ -1,0 +1,1 @@
+{"rustc":12875401249780638716,"features":"[\"default\"]","target":7084070525104849766,"profile":3515853926593532548,"path":1666178959984605368,"deps":[["crc v1.7.0","crc",792503203337688579],["libc v0.2.40","libc",12002129383390527588],["miniz_oxide v0.1.2","miniz_oxide",4762969780737952678]],"local":[{"Precalculated":"0.1.2"}],"rustflags":[],"edition":"Edition2015"}

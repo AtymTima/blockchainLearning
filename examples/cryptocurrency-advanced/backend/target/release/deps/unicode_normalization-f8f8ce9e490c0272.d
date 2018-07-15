@@ -1,0 +1,9 @@
+/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/deps/libunicode_normalization-f8f8ce9e490c0272.rlib: /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/lib.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/decompose.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/normalize.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/recompose.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/tables.rs
+
+/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/deps/unicode_normalization-f8f8ce9e490c0272.d: /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/lib.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/decompose.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/normalize.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/recompose.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/tables.rs
+
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/lib.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/decompose.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/normalize.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/recompose.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/unicode-normalization-0.1.5/src/tables.rs:

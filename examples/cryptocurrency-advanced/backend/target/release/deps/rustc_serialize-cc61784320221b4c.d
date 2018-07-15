@@ -1,0 +1,10 @@
+/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/deps/librustc_serialize-cc61784320221b4c.rlib: /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/lib.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/serialize.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/collection_impls.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/base64.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/hex.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/json.rs
+
+/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/deps/rustc_serialize-cc61784320221b4c.d: /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/lib.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/serialize.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/collection_impls.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/base64.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/hex.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/json.rs
+
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/lib.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/serialize.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/collection_impls.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/base64.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/hex.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/rustc-serialize-0.3.24/src/json.rs:

@@ -1,0 +1,11 @@
+/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/deps/libucd_util-e0151787b6ea1e30.rlib: /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/lib.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/hangul.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/ideograph.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/name.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/property.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/unicode_tables/mod.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/unicode_tables/jamo_short_name.rs
+
+/Users/tima/Desktop/exonum/examples/cryptocurrency-advanced/backend/target/release/deps/ucd_util-e0151787b6ea1e30.d: /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/lib.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/hangul.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/ideograph.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/name.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/property.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/unicode_tables/mod.rs /Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/unicode_tables/jamo_short_name.rs
+
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/lib.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/hangul.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/ideograph.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/name.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/property.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/unicode_tables/mod.rs:
+/Users/tima/.cargo/registry/src/github.com-1ecc6299db9ec823/ucd-util-0.1.1/src/unicode_tables/jamo_short_name.rs:
